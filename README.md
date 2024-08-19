@@ -3,15 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=illaf&label=Profile%20views&color=0e75b6&style=flat" alt="illaf" /> </p>
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m a full stack web developer.
 
-- 👯 I’m looking to work as an intern **for a frontend project**
-
-- 💬 Ask me about **Java,react js,javascript**
+  
+- 💬 Ask me about **Java,react js,next js,javascript**
 
 - 📫 How to reach me **ilafshafeeq@gmail.com**
 
-- 📄 Know about my experiences [https://canva.me/3tOwwArTryb](https://canva.me/3tOwwArTryb)
+- 📄 Know about my experiences [https://canva.me/IFB3kNJ5FPMQ]([https://canva.me/3tOwwArTryb](https://www.canva.com/design/DAF70TqIgFs/IFB3kNJ5FPMQ_xFk-4YmgA/view?utm_content=DAF70TqIgFs&utm_campaign=designshare&utm_medium=link&utm_source=editor))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
